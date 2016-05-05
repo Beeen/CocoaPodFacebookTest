@@ -1,0 +1,6 @@
+framework module Pods_CocoaFacebookTest {
+  umbrella header "Pods-CocoaFacebookTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
